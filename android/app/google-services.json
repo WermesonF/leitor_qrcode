@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86878683993",
+    "project_id": "pdw-cupom-aba6f",
+    "storage_bucket": "pdw-cupom-aba6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86878683993:android:10ff2a0904292003614248",
+        "android_client_info": {
+          "package_name": "com.br.leitor_qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86878683993-r4v531igaamgngbb5gcs6d8qo8jqmsqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQVZjWJxubAgCVEv4rRA5UHslyLRKSaio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86878683993-r4v531igaamgngbb5gcs6d8qo8jqmsqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
