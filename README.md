@@ -1,16 +1,13 @@
-# gerador_e_leitor_de_qrcode
+# leitor de QR Code
 
-A new Flutter project.
+Projeto bem simples desenvolvido em flutter para ler QR Codes e validar cupoms de descontos criados por outro projeto [PWA Gerador de Cupoms](https://github.com/WermesonF/pwa_gerador_cupom).
 
-## Getting Started
+O aplicativo por meio da camera escanea o QR Code e verifica se ele já foi utilizado ou não pelo cliente. A comparação e feita via chaves na qual estão armazenadas no banco de dados do Cloud Firebase.
 
-This project is a starting point for a Flutter application.
+Vizualização do projeto:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101995826/196830373-b0a886d5-f6c9-46e0-bccb-563133c47eaa.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/101995826/196830405-8ba6c80f-c901-4f7b-bab3-93aa8d7b4cee.png" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/101995826/196830412-6e3e403d-cba9-4bcc-b728-6ff7a065d41d.png" width="200" height="400" />
+</p>
