@@ -1,8 +1,8 @@
 # Leitor de QR Code
 
-Projeto bem simples desenvolvido em flutter para ler QR Codes e validar cupoms de descontos criados por outro projeto [PWA Gerador de Cupoms](https://github.com/WermesonF/pwa_gerador_cupom).
+Projeto bem simples desenvolvido em flutter para ler QR Codes e validar cupons de descontos criados pelo [PWA Gerador de Cupons](https://github.com/WermesonF/pwa_gerador_cupom).
 
-O aplicativo por meio da camera escanea o QR Code e verifica se ele já foi utilizado ou não pelo cliente. A comparação e feita via chaves na qual estão armazenadas no banco de dados do Cloud Firebase.
+O aplicativo por meio da câmera escaneá o QR Code e verifica se ele já foi utilizado ou não pelo cliente. A comparação e feita via chaves na qual estão armazenadas no banco de dados do Cloud Firebase.
 
 Vizualização do projeto:
 
