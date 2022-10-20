@@ -1,4 +1,4 @@
-# leitor de QR Code
+# Leitor de QR Code
 
 Projeto bem simples desenvolvido em flutter para ler QR Codes e validar cupoms de descontos criados por outro projeto [PWA Gerador de Cupoms](https://github.com/WermesonF/pwa_gerador_cupom).
 
